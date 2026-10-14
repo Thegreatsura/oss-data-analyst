@@ -1,5 +1,7 @@
 # OSS Data Analyst
 
+> **Deprecated:** This template has been deprecated in favor of [Eve Data Analyst](https://vercel.com/templates/eve/eve-data-analyst). Please use that template for new projects.
+
 An AI data analyst agent that explores a semantic layer in a sandbox environment to answer natural language questions with SQL.
 
 ## Overview
